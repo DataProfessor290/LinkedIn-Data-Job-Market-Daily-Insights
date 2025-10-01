@@ -1,6 +1,7 @@
 **Excel Project 1: LinkedIn Data Analyst Job Market Daily Insights**
 
 📌 **Project Goal**
+
 Analyze LinkedIn Data Analyst job postings using Excel to understand hiring demand. The project focuses on cleaning, analyzing, and visualizing the dataset to uncover:
 
 - Top companies and locations hiring Data Analysts
